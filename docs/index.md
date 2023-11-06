@@ -4,7 +4,7 @@ heroImage: /img/logo.png
 heroText: boilerplate-cloud
 tagline: 🚀boilerplate是一款面向规模型企业，以主数据、原子能力、业务流程为基础，覆盖企业数字化全域的智能业务中台样板工程
 actionText: 开始使用 →
-actionLink: /pages/a2f161/
+actionLink: /pages/8dfab1/
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 features: # 可选的
