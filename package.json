@@ -1,5 +1,5 @@
 {
-  "name": "theme-vdoing-doc",
+  "name": "cloud-boilerplate-doc",
   "version": "1.0.0",
   "scripts": {
     "dev": "vuepress dev docs",
