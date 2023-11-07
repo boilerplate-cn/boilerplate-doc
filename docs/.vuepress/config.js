@@ -22,28 +22,13 @@ module.exports = {
       { text: '首页', link: '/' },
       {
         text: '解决方案', link: '/pages/8dfab1/', items: [
-          { text: '全渠道供应链OMS解决方案', link: '/pages/8dfab1/' }
+          { text: '全渠道供应链OMS解决方案', link: '/pages/8dfab1/' },
+          { text: '企业一卡通解决方案', link: '/pages/1dfab1/' }
         ]
       },
-      {
-        text: '中台管理', link: '/#', items: [
-          {
-            text: '中台管理产品', items: [
-              { text: '智能运营中台(OMS)', link: '/#' },
-              { text: '电商ERP', link: '/#' }
-            ]
-          },
-          {
-            text: '技术框架', items: [
-              { text: '数字化操作系统', link: '/#' }
-            ]
-          }
-        ]
-      },
-      
-     
+      { text: '数字化操作系统', link: '/pages/a20ce8/' },
       { text: '客户案例', link: '/#' },
-      { text: '赞助', link: '/#' },
+      { text: '赞助', link: '/pages/1b12ed/' },
     ],
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
     logo: '/img/logo.png', // 导航栏logo
