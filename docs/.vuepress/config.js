@@ -88,7 +88,7 @@ module.exports = {
     },
     footer: { // 页脚信息
       createYear: 2023, // 博客创建年份
-      copyrightInfo: 'ancient2now | MIT License', // 博客版权信息，支持a标签
+      copyrightInfo: '<a href="https://beian.miit.gov.cn/" target="_blank">苏ICP备20004143号-2</a> boilerplate | MIT License', // 博客版权信息，支持a标签
     },
     htmlModules,
   },
@@ -123,7 +123,7 @@ module.exports = {
     [
       'vuepress-plugin-baidu-tongji', // 百度统计
       {
-        hm: baiduCode || '01293bffa6c3962016c08ba685c79d78'
+        hm: baiduCode || ''
       }
     ],
 
